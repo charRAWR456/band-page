@@ -5,7 +5,11 @@ body {
 .sidebar{
   width: 30%;
   float: left;
+  border: 2px solid purple;
+  padding: 4px;
+  margin-right: 8px;
   background-color: #70af80;
+
 }
 
 p {
@@ -14,6 +18,7 @@ p {
 
 img {
   width: 20%;
+  padding-left: 8px;
   float: right;
 }
 
